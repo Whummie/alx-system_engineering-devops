@@ -1,1 +1,2 @@
-chmod --refernce=hello olleh
+#!/bin/bash
+chmod --reference = hello olleh
